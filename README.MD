@@ -1,6 +1,11 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 # Simple Plain Html Academic Personal Page
 my website https://qiangshen1.github.io/
 
 Uses jQuery and Bootstrap CSS.
 [Here](https://junweiliang.github.io/) is my actively maintained page.
+
+[![GitHub stars](https://img.shields.io/github/stars/qiangsy1/qiangsy1.github.io.svg)](https://github.com/qiangsy1/qiangsy1.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/qiangsy1/qiangsy1.github.io.svg)](https://github.com/qiangsy1/qiangsy1.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/qiangsy1/qiangsy1.github.io.svg)](https://github.com/qiangsy1/qiangsy1.github.io/issues)
+[![GitHub release](https://img.shields.io/github/release/qiangsy1/qiangsy1.github.io.svg)](https://github.com/qiangsy1/qiangsy1.github.io/releases)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/qiangsy1/qiangsy1.github.io/master/LICENSE)
