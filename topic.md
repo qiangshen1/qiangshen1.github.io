@@ -3,8 +3,9 @@
     <center>
    + ### Case 1: 3D+Topo Model
     <iframe src="//player.bilibili.com/player.html?aid=873028275&bvid=BV1zN4y1X7BK&cid=1255775927&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="70%" height="300" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe> <br>
-
+   </center>
+     <center>
    + ### Case 2: 3D+Flat Model
     <iframe src="//player.bilibili.com/player.html?aid=318097476&bvid=BV1mP411h72N&cid=1255843934&page=1&high_quality=2" allowfullscreen="allowfullscreen" width="70%" height="300" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
-</center>
+   </center>
 
