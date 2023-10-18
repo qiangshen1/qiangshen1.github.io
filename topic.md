@@ -1,4 +1,4 @@
-## Ground Motion Simulation of the 2022 Ms6.8 Luding Earthquake, in Southwestern China
+## Ground Motion Simulation of the 2022 Ms6.8 Luding Earthquake, in Southwest China
  + <font color=blue siez=5>1. Snapshots of the EW component of Ms 6.8 Luding earthquake wavefields computed with surface topography (TOPO) and with flat free surface (FLAT)</font>
 <table rules="none" align="center">
 	<tr>
