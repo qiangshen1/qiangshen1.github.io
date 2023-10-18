@@ -4,16 +4,16 @@
 	<tr>
 		<td>
 			<center>
-				<img src="https://img-blog.csdnimg.cn/293b792757c24b8caa1ffba18ce76831.jpg" width="60%" />
+				<iframe src="//player.bilibili.com/player.html?aid=873028275&bvid=BV1zN4y1X7BK&cid=1255775927&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="100%" height="400" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 				<br/>
-				<font color="AAAAAA">001.jpg</font>
+				<font color="AAAAAA">Case 1: 3D+Topo Model</font>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="https://img-blog.csdnimg.cn/f70c9b6462314611828f3349942b1227.jpg" width="60%" />
+				<iframe src="//player.bilibili.com/player.html?aid=318097476&bvid=BV1mP411h72N&cid=1255843934&page=1&high_quality=2" allowfullscreen="allowfullscreen" width="100%" height="400" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 				<br/>
-				<font color="AAAAAA">002.jpg</font>
+				<font color="AAAAAA">Case 2: 3D+Flat Model</font>
 			</center>
 		</td>
 	</tr>
