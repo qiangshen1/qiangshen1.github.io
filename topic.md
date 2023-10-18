@@ -13,7 +13,7 @@
 			<center>
 				<iframe src="//player.bilibili.com/player.html?aid=318097476&bvid=BV1mP411h72N&cid=1255843934&page=1&high_quality=2" allowfullscreen="allowfullscreen" width="100%" height="400" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 				<br/>
-                                <font font-weight: bold;color="red">Case 2: 3D+Flat Model</font>
+                                <font color="red">#Case 2: 3D+Flat Model#</font>
 			</center>
 		</td>
 	</tr>
