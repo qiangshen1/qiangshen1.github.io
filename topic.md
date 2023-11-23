@@ -6,7 +6,7 @@
 			<center>
                                 <iframe src="//player.bilibili.com/player.html?aid=876316394&bvid=BV13N4y1U7ei&cid=1341392672&page=1&high_quality=2" allowfullscreen="allowfullscreen" width="800" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 				<br/>
-                                <font size="4" color="red"> Regional 3D Seismic Velocity Model</font>
+                                <font size="4" color="red"> 3D Seismic Velocity Model</font>
 			</center>
 		</td>
 		<td>
@@ -18,7 +18,7 @@
 		</td>
 		<td>
 			<center>
-			<iframe src="//player.bilibili.com/player.html?aid=873028275&bvid=BV1zN4y1X7BK&cid=1255775927&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="800" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+			       <iframe src="//player.bilibili.com/player.html?aid=873028275&bvid=BV1zN4y1X7BK&cid=1255775927&page=1&high_quality=1" allowfullscreen="allowfullscreen" width="800" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 				<br/>
 				<font size="4" color="red"> Case 2: 3DTopo Model </font>	
 			</center>
