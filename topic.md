@@ -6,7 +6,7 @@
 			<center>
 				<iframe src="//player.bilibili.com/player.html?aid=876316394&bvid=BV13N4y1U7ei&cid=1341392672&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 				<br/>
-                                <font size="4" color="red"> Case 1: 3D+Flat Model </font>
+                                <font size="4" color="red"> 3D Seismic Velocity Model </font>
 			</center>
 		</td>
 		<td>
