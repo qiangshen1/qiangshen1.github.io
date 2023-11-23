@@ -4,7 +4,7 @@
 	<tr>
 		<td>
 			<center>
-                                <iframe src="//player.bilibili.com/player.html?aid=876316394&bvid=BV13N4y1U7ei&cid=1341392672&page=1&high_quality=2" allowfullscreen="allowfullscreen" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+                                <iframe src="//player.bilibili.com/player.html?aid=876316394&bvid=BV13N4y1U7ei&cid=1341392672&page=1&high_quality=2" allowfullscreen="allowfullscreen" width="200" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 				<br/>
                                 <font size="4" color="red"> Regional 3D Seismic Velocity Model</font>
 			</center>
