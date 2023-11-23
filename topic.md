@@ -4,7 +4,7 @@
 	<tr>
 		<td>
 			<center>
-                                <iframe src="//player.bilibili.com/player.html?aid=876316394&bvid=BV13N4y1U7ei&cid=1341392672&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>       
+                                <iframe src="//player.bilibili.com/player.html?aid=876316394&bvid=BV13N4y1U7ei&cid=1341392672&page=1&high_quality=2" allowfullscreen="allowfullscreen" width="100%" height="450" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 				<br/>
                                 <font size="4" color="red"> Case 1</font>
 			</center>
