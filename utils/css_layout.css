@@ -171,3 +171,38 @@
     max-width:100%;
     max-height:100%;
   }
+
+
+/* 2026 Baqing earthquake media entry in the News section */
+#main .baqing-news-item {
+  margin-bottom: 18px;
+  line-height: 1.6;
+}
+#main .baqing-news-description {
+  margin: 6px 0 5px;
+}
+#main .baqing-news-links {
+  margin: 6px 0 12px;
+  font-size: 15px;
+}
+#main .baqing-news-links a {
+  white-space: nowrap;
+}
+#main .baqing-rupture-figure {
+  max-width: 720px;
+  margin: 8px 0 16px;
+}
+#main .baqing-rupture-figure video {
+  width: 100%;
+  height: auto;
+  display: block;
+  background: #101820;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+#main .baqing-rupture-figure figcaption {
+  color: #666;
+  font-size: 13px;
+  line-height: 1.5;
+  margin-top: 6px;
+}
