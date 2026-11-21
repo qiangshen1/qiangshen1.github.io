@@ -189,8 +189,9 @@
   white-space: nowrap;
 }
 #main .baqing-rupture-figure {
-  max-width: 720px;
-  margin: 8px 0 16px;
+  width: 100%;
+  max-width: 420px; /* Compact NEWS video; scales down on narrow screens */
+  margin: 8px 0 12px;
 }
 #main .baqing-rupture-figure video {
   width: 100%;
